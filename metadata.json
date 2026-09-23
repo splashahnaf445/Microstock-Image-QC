@@ -1,0 +1,6 @@
+{
+  "name": "Microstock QC",
+  "description": "Professional benchmarking and quality control suite for premium microstock licensing compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
